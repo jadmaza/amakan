@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0301"/>
+	<anchor x="0" y="780" name="_top"/>
+	<outline>
+		<contour>
+			<point x="5" y="770" type="curve"/>
+			<point x="5" y="730" type="line"/>
+			<point x="11" y="727"/>
+			<point x="21" y="725"/>
+			<point x="30" y="725" type="curve"/>
+			<point x="39" y="725"/>
+			<point x="49" y="727"/>
+			<point x="55" y="730" type="curve"/>
+			<point x="55" y="770" type="line"/>
+			<point x="49" y="773"/>
+			<point x="39" y="775"/>
+			<point x="30" y="775" type="curve"/>
+			<point x="21" y="775"/>
+			<point x="11" y="773"/>
+		</contour>
+		<contour>
+			<point x="725" y="770" type="curve"/>
+			<point x="725" y="730" type="line"/>
+			<point x="731" y="727"/>
+			<point x="741" y="725"/>
+			<point x="750" y="725" type="curve"/>
+			<point x="759" y="725"/>
+			<point x="769" y="727"/>
+			<point x="775" y="730" type="curve"/>
+			<point x="775" y="770" type="line"/>
+			<point x="769" y="773"/>
+			<point x="759" y="775"/>
+			<point x="750" y="775" type="curve"/>
+			<point x="741" y="775"/>
+			<point x="731" y="773"/>
+		</contour>
+		<contour>
+			<point x="365" y="770" type="curve"/>
+			<point x="365" y="730" type="line"/>
+			<point x="399.8" y="727"/>
+			<point x="457.8" y="725"/>
+			<point x="510" y="725" type="curve"/>
+			<point x="562.2" y="725"/>
+			<point x="620.2" y="727"/>
+			<point x="655" y="730" type="curve"/>
+			<point x="655" y="770" type="line"/>
+			<point x="620.2" y="773"/>
+			<point x="562.2" y="775"/>
+			<point x="510" y="775" type="curve"/>
+			<point x="457.8" y="775"/>
+			<point x="399.8" y="773"/>
+		</contour>
+		<contour>
+			<point x="305" y="710" type="curve"/>
+			<point x="305" y="670" type="line"/>
+			<point x="325.4" y="667"/>
+			<point x="359.4" y="665"/>
+			<point x="390" y="665" type="curve"/>
+			<point x="420.6" y="665"/>
+			<point x="454.6" y="667"/>
+			<point x="475" y="670" type="curve"/>
+			<point x="475" y="710" type="line"/>
+			<point x="454.6" y="713"/>
+			<point x="420.6" y="715"/>
+			<point x="390" y="715" type="curve"/>
+			<point x="359.4" y="715"/>
+			<point x="325.4" y="713"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

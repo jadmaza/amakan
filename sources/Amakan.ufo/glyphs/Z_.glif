@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+	<advance width="780" height="0"/>
+	<unicode hex="005A"/>
+	<unicode hex="007A"/>
+	<outline>
+		<component base="Z.strip"/>
+		<component base="Z.stripe"/>
+	</outline>
+</glyph>

@@ -1,0 +1,44 @@
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+languagesystem DFLT dflt;
+### close prefix 'Languagesystems' ###
+
+### feature:0:aalt ###
+feature aalt {
+### open feature 'aalt' ###
+feature ss01;
+feature calt;
+feature ss02;
+### close feature 'aalt' ###
+} aalt;
+
+### feature:1:ss01 ###
+feature ss01 {
+featureNames {
+	name 3 1 0x409 "Reverse";
+};
+### open feature 'ss01' ###
+sub space by space.ss01;
+### close feature 'ss01' ###
+} ss01;
+
+### feature:2:calt ###
+feature calt {
+### open feature 'calt' ###
+# 
+sub space space' by space.ss01;
+sub space.ss01 space.ss01' by space;
+### close feature 'calt' ###
+} calt;
+
+### feature:3:ss02 ###
+feature ss02 {
+featureNames {
+	name 3 1 0x409 "Blank space";
+};
+### open feature 'ss02' ###
+sub [space space.ss01] by space.ss02;
+### close feature 'ss02' ###
+} ss02;
+
+

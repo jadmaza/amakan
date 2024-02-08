@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+	<advance width="780"/>
+	<unicode hex="00C8"/>
+	<unicode hex="00E8"/>
+	<outline>
+		<component base="Egrave.strip"/>
+		<component base="Egrave.stripe"/>
+	</outline>
+</glyph>

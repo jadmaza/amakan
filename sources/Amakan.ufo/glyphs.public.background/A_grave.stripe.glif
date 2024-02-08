@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave.stripe" format="2">
+	<advance width="780"/>
+	<outline>
+		<component base="A.short"/>
+		<component base="gravecomb"/>
+	</outline>
+</glyph>

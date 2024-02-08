@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="780" height="0"/>
+	<unicode hex="004B"/>
+	<unicode hex="006B"/>
+	<outline>
+		<component base="K.strip"/>
+		<component base="K.stripe"/>
+	</outline>
+</glyph>

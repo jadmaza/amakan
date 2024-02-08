@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+	<advance width="780"/>
+	<unicode hex="00CD"/>
+	<unicode hex="00ED"/>
+	<outline>
+		<component base="Iacute.strip"/>
+		<component base="Iacute.stripe"/>
+	</outline>
+</glyph>

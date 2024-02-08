@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+	<advance width="780"/>
+	<unicode hex="002E"/>
+	<outline>
+		<component base="period.strip"/>
+		<component base="period.stripe"/>
+	</outline>
+</glyph>

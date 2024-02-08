@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_segment.end" format="2">
+	<advance width="150" height="800"/>
+	<anchor x="100" y="60" name="end"/>
+	<anchor x="50" y="60" name="start"/>
+	<outline>
+		<contour>
+			<point x="50" y="65" type="move"/>
+			<point x="56" y="62"/>
+			<point x="66" y="60"/>
+			<point x="75" y="60" type="curve" smooth="yes"/>
+			<point x="84" y="60"/>
+			<point x="94" y="62"/>
+			<point x="100" y="65" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=50</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=50</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+	<advance width="780" height="0"/>
+	<unicode hex="0048"/>
+	<unicode hex="0068"/>
+	<outline>
+		<component base="H.strip"/>
+		<component base="H.stripe"/>
+	</outline>
+</glyph>

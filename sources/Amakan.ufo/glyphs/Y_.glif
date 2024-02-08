@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+	<advance width="780" height="0"/>
+	<unicode hex="0059"/>
+	<unicode hex="0079"/>
+	<outline>
+		<component base="Y.strip"/>
+		<component base="Y.stripe"/>
+	</outline>
+</glyph>

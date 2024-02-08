@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.horizontal" format="2">
+	<advance width="780"/>
+	<outline>
+		<contour>
+			<point x="5" y="50" type="curve"/>
+			<point x="5" y="10" type="line"/>
+			<point x="11" y="7"/>
+			<point x="21" y="5"/>
+			<point x="30" y="5" type="curve"/>
+			<point x="39" y="5"/>
+			<point x="49" y="7"/>
+			<point x="55" y="10" type="curve"/>
+			<point x="55" y="50" type="line"/>
+			<point x="49" y="53"/>
+			<point x="39" y="55"/>
+			<point x="30" y="55" type="curve"/>
+			<point x="21" y="55"/>
+			<point x="11" y="53"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

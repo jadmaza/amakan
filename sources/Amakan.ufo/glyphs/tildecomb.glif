@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0303"/>
+	<anchor x="0" y="780" name="_top"/>
+	<outline>
+		<contour>
+			<point x="5" y="770" type="curve"/>
+			<point x="5" y="730" type="line"/>
+			<point x="11" y="727"/>
+			<point x="21" y="725"/>
+			<point x="30" y="725" type="curve"/>
+			<point x="39" y="725"/>
+			<point x="49" y="727"/>
+			<point x="55" y="730" type="curve"/>
+			<point x="55" y="770" type="line"/>
+			<point x="49" y="773"/>
+			<point x="39" y="775"/>
+			<point x="30" y="775" type="curve"/>
+			<point x="21" y="775"/>
+			<point x="11" y="773"/>
+		</contour>
+		<contour>
+			<point x="185" y="770" type="curve"/>
+			<point x="185" y="730" type="line"/>
+			<point x="219.8" y="727"/>
+			<point x="277.8" y="725"/>
+			<point x="330" y="725" type="curve"/>
+			<point x="382.2" y="725"/>
+			<point x="440.2" y="727"/>
+			<point x="475" y="730" type="curve"/>
+			<point x="475" y="770" type="line"/>
+			<point x="440.2" y="773"/>
+			<point x="382.2" y="775"/>
+			<point x="330" y="775" type="curve"/>
+			<point x="277.8" y="775"/>
+			<point x="219.8" y="773"/>
+		</contour>
+		<contour>
+			<point x="545" y="770" type="curve"/>
+			<point x="545" y="730" type="line"/>
+			<point x="558.2" y="727"/>
+			<point x="580.2" y="725"/>
+			<point x="600" y="725" type="curve"/>
+			<point x="619.8" y="725"/>
+			<point x="641.8" y="727"/>
+			<point x="655" y="730" type="curve"/>
+			<point x="655" y="770" type="line"/>
+			<point x="641.8" y="773"/>
+			<point x="619.8" y="775"/>
+			<point x="600" y="775" type="curve"/>
+			<point x="580.2" y="775"/>
+			<point x="558.2" y="773"/>
+		</contour>
+		<contour>
+			<point x="725" y="770" type="curve"/>
+			<point x="725" y="730" type="line"/>
+			<point x="731" y="727"/>
+			<point x="741" y="725"/>
+			<point x="750" y="725" type="curve"/>
+			<point x="759" y="725"/>
+			<point x="769" y="727"/>
+			<point x="775" y="730" type="curve"/>
+			<point x="775" y="770" type="line"/>
+			<point x="769" y="773"/>
+			<point x="759" y="775"/>
+			<point x="750" y="775" type="curve"/>
+			<point x="741" y="775"/>
+			<point x="731" y="773"/>
+		</contour>
+		<contour>
+			<point x="125" y="710" type="curve"/>
+			<point x="125" y="670" type="line"/>
+			<point x="138.2" y="667"/>
+			<point x="160.2" y="665"/>
+			<point x="180" y="665" type="curve"/>
+			<point x="199.8" y="665"/>
+			<point x="221.8" y="667"/>
+			<point x="235" y="670" type="curve"/>
+			<point x="235" y="710" type="line"/>
+			<point x="221.8" y="713"/>
+			<point x="199.8" y="715"/>
+			<point x="180" y="715" type="curve"/>
+			<point x="160.2" y="715"/>
+			<point x="138.2" y="713"/>
+		</contour>
+		<contour>
+			<point x="305" y="710" type="curve"/>
+			<point x="305" y="670" type="line"/>
+			<point x="339.8" y="667"/>
+			<point x="397.8" y="665"/>
+			<point x="450" y="665" type="curve"/>
+			<point x="502.2" y="665"/>
+			<point x="560.2" y="667"/>
+			<point x="595" y="670" type="curve"/>
+			<point x="595" y="710" type="line"/>
+			<point x="560.2" y="713"/>
+			<point x="502.2" y="715"/>
+			<point x="450" y="715" type="curve"/>
+			<point x="397.8" y="715"/>
+			<point x="339.8" y="713"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

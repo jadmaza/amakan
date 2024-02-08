@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0308"/>
+	<anchor x="0" y="780" name="_top"/>
+	<outline>
+		<contour>
+			<point x="5" y="770" type="curve"/>
+			<point x="5" y="730" type="line"/>
+			<point x="11" y="727"/>
+			<point x="21" y="725"/>
+			<point x="30" y="725" type="curve"/>
+			<point x="39" y="725"/>
+			<point x="49" y="727"/>
+			<point x="55" y="730" type="curve"/>
+			<point x="55" y="770" type="line"/>
+			<point x="49" y="773"/>
+			<point x="39" y="775"/>
+			<point x="30" y="775" type="curve"/>
+			<point x="21" y="775"/>
+			<point x="11" y="773"/>
+		</contour>
+		<contour>
+			<point x="725" y="770" type="curve"/>
+			<point x="725" y="730" type="line"/>
+			<point x="731" y="727"/>
+			<point x="741" y="725"/>
+			<point x="750" y="725" type="curve"/>
+			<point x="759" y="725"/>
+			<point x="769" y="727"/>
+			<point x="775" y="730" type="curve"/>
+			<point x="775" y="770" type="line"/>
+			<point x="769" y="773"/>
+			<point x="759" y="775"/>
+			<point x="750" y="775" type="curve"/>
+			<point x="741" y="775"/>
+			<point x="731" y="773"/>
+		</contour>
+		<contour>
+			<point x="185" y="770" type="curve"/>
+			<point x="185" y="730" type="line"/>
+			<point x="205.4" y="727"/>
+			<point x="239.4" y="725"/>
+			<point x="270" y="725" type="curve"/>
+			<point x="300.6" y="725"/>
+			<point x="334.6" y="727"/>
+			<point x="355" y="730" type="curve"/>
+			<point x="355" y="770" type="line"/>
+			<point x="334.6" y="773"/>
+			<point x="300.6" y="775"/>
+			<point x="270" y="775" type="curve"/>
+			<point x="239.4" y="775"/>
+			<point x="205.4" y="773"/>
+		</contour>
+		<contour>
+			<point x="425" y="770" type="curve"/>
+			<point x="425" y="730" type="line"/>
+			<point x="445.4" y="727"/>
+			<point x="479.4" y="725"/>
+			<point x="510" y="725" type="curve"/>
+			<point x="540.6" y="725"/>
+			<point x="574.6" y="727"/>
+			<point x="595" y="730" type="curve"/>
+			<point x="595" y="770" type="line"/>
+			<point x="574.6" y="773"/>
+			<point x="540.6" y="775"/>
+			<point x="510" y="775" type="curve"/>
+			<point x="479.4" y="775"/>
+			<point x="445.4" y="773"/>
+		</contour>
+		<contour>
+			<point x="185" y="705" type="curve"/>
+			<point x="185" y="665" type="line"/>
+			<point x="205.4" y="662"/>
+			<point x="239.4" y="660"/>
+			<point x="270" y="660" type="curve"/>
+			<point x="300.6" y="660"/>
+			<point x="334.6" y="662"/>
+			<point x="355" y="665" type="curve"/>
+			<point x="355" y="705" type="line"/>
+			<point x="334.6" y="708"/>
+			<point x="300.6" y="710"/>
+			<point x="270" y="710" type="curve"/>
+			<point x="239.4" y="710"/>
+			<point x="205.4" y="708"/>
+		</contour>
+		<contour>
+			<point x="425" y="705" type="curve"/>
+			<point x="425" y="665" type="line"/>
+			<point x="445.4" y="662"/>
+			<point x="479.4" y="660"/>
+			<point x="510" y="660" type="curve"/>
+			<point x="540.6" y="660"/>
+			<point x="574.6" y="662"/>
+			<point x="595" y="665" type="curve"/>
+			<point x="595" y="705" type="line"/>
+			<point x="574.6" y="708"/>
+			<point x="540.6" y="710"/>
+			<point x="510" y="710" type="curve"/>
+			<point x="479.4" y="710"/>
+			<point x="445.4" y="708"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>
