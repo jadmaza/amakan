@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>780</integer>
 	<key>copyright</key>
-	<string>Copyright © 2022 by John David Maza</string>
+	<string>Copyright © 2022 by Jad Maza</string>
 	<key>descender</key>
 	<integer>0</integer>
 	<key>familyName</key>
@@ -32,11 +32,11 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
-	<string>John David Maza</string>
+	<string>Jad Maza</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>be.net/johndavidmaza</string>
+	<string>be.net/jadmaza</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>johndavidmaza.gumroad.com</string>
+	<string>jadmaza.gumroad.com</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Sheet</string>
 	<key>openTypeOS2TypoAscender</key>

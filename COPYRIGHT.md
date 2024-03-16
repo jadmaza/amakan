@@ -1,1 +1,1 @@
-Copyright (c) 2022, John David Maza be.net/johndavidmaza
+Copyright (c) 2022, Jad Maza be.net/jadmaza

@@ -2,7 +2,7 @@
 
 A nod to local materials and craftsmanship, Amakan is a typeface patterned after the woven split-bamboo mats used as wall cladding for traditional nipà huts in the Philippines, translating repeating motifs of diagonal, zigzag, and diamond-like shapes in the weaves into typography.
 
-Made in the Philippines 🇵🇭 by John David Maza 2022
+Made in the Philippines 🇵🇭 by Jad Maza 2022
 
 ![specimen1](documentation/specimen/landscape/Amakan1.jpg)
 ![specimen2](documentation/specimen/landscape/Amakan2.jpg)

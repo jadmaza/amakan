@@ -111659,26 +111659,26 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "John David Maza";
+value = "Jad Maza";
 }
 );
 },
 {
 key = manufacturerURL;
-value = johndavidmaza.gumroad.com;
+value = jadmaza.gumroad.com;
 },
 {
 key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2022 by John David Maza";
+value = "Copyright © 2022 by Jad Maza";
 }
 );
 },
 {
 key = designerURL;
-value = be.net/johndavidmaza;
+value = be.net/jadmaza;
 }
 );
 settings = {

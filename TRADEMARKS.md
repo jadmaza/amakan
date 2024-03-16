@@ -1,1 +1,1 @@
-Amakan is a trademark of John David Maza (2022).
+Amakan is a trademark of Jad Maza (2022).
